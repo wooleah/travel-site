@@ -827,7 +827,7 @@ a {
 	}
 
 .row--equal-height-at-medium > div {
-			/*float: none;*/
+			float: none;
 			display: -webkit-box;
 			display: -ms-flexbox;
 			display: flex;
@@ -1154,8 +1154,8 @@ Instead edit gulp/templates/sprite */
 	}
 
 			.site-header--dark .site-header__logo {
-				-webkit-transform: scale(.57);
-				        transform: scale(.57);
+				-webkit-transform: scale(.56);
+				        transform: scale(.56);
 			}
 	}
 
